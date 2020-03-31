@@ -1,2 +1,3 @@
-# game_of_life_in_c
-Simulation of the game of life in C
+# My Personal Collection of C programs
+
+These programs are mostly from previous courses assignments.
